@@ -90,5 +90,9 @@ namespace Roommates.Repositories
                 }
             }
         }
+        public List<Chore> GetUnassignedChores()
+        {
+
+        }
     }
 }
