@@ -15,7 +15,6 @@ namespace Roommates.Repositories
         /// </summary>
         public RoomRepository(string connectionString) : base(connectionString) { }
 
-        // ...We'll add some methods shortly...
         /// <summary>
         ///  Get a list of all Rooms in the database
         /// </summary>
